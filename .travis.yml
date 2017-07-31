@@ -29,7 +29,6 @@ install:
   - conda install cython
   - pip install --upgrade pip
   - pip install IPython
-  - pip install unittest
   - pip install logbook
   - pip install python-decouple
   - pip install mock
