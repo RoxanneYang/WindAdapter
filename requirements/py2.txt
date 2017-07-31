@@ -1,10 +1,11 @@
 enum34>=1.0.4
 mock
 numpy
+unittest
 pandas>=0.18.0
 logbook
 argcheck
 python-decouple>=3.0
 toolz
 finance-python
-unittest
+
