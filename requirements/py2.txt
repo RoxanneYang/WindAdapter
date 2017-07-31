@@ -7,3 +7,4 @@ argcheck
 python-decouple>=3.0
 toolz
 finance-python
+unittest
